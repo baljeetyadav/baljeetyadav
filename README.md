@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baljeetyadav
-- 👀 I’m interested in developing new softwares.
+- 👀 I’m interested in architecting and developing new softwares.
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on JAVA/AI/DS projects
+- 💞️ I’m looking to collaborate on JAVA/BigData/AI/DS projects
 - 📫 How to reach me baljeety2309@gmail.com
 
 <!---
